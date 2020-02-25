@@ -17,7 +17,7 @@ conan_cmake_run(
   REQUIRES
      ${CONAN_EXTRA_REQUIRES}
      fmt/6.0.0
-     gtest/1.8.1
+     gtest/1.10.0
   OPTIONS
   BASIC_SETUP
   CMAKE_TARGETS # individual targets to link to
